@@ -9,4 +9,4 @@ nbformat
 apyori
 ipykernel
 streamlit>=1.23.0
-flask
+imbalanced-learn
